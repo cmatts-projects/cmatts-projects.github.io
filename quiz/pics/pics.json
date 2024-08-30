@@ -1,0 +1,10 @@
+{
+  "img1": {
+    "name": "Image 1",
+    "source": "img1.jpg"
+  },
+  "img2": {
+    "name": "Image 2",
+    "source": "img2.jpg"
+  }
+}

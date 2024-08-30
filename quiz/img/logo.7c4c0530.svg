@@ -1,0 +1,6 @@
+<svg viewBox="0 0 120 80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .title { font: italic 40px serif; fill: white; }
+    </style>
+    <text x="10" y="50" class="title">Quiz!</text>
+</svg>
