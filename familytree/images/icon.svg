@@ -1,0 +1,19 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <polyline points="0,0 0,64 64,64 64,0 " fill="#ddddff" />
+        <line x1="32" y1="38" x2="32" y2="48" stroke="#3366aa" stroke-width="8"/>
+        <line x1="19" y1="35" x2="45" y2="35" stroke="#3366aa" stroke-width="3"/>
+        <line x1="19" y1="30" x2="22" y2="30" stroke="#3366aa" stroke-width="3"/>
+        <line x1="42" y1="30" x2="45" y2="30" stroke="#3366aa" stroke-width="3"/>
+        <line x1="13" y1="26" x2="27" y2="26" stroke="#3366aa" stroke-width="2"/>
+        <line x1="36" y1="26" x2="51" y2="26" stroke="#3366aa" stroke-width="2"/>
+        <line x1="13" y1="22" x2="15" y2="22" stroke="#3366aa" stroke-width="2"/>
+        <line x1="25" y1="22" x2="27" y2="22" stroke="#3366aa" stroke-width="2"/>
+        <line x1="36" y1="22" x2="38" y2="22" stroke="#3366aa" stroke-width="2"/>
+        <line x1="49" y1="22" x2="51" y2="22" stroke="#3366aa" stroke-width="2"/>
+        <line x1="19" y1="19" x2="31" y2="19" stroke="#3366aa" stroke-width="2"/>
+        <line x1="33" y1="19" x2="45" y2="19" stroke="#3366aa" stroke-width="2"/>
+        <line x1="29" y1="16" x2="31" y2="16" stroke="#3366aa" stroke-width="2"/>
+        <line x1="33" y1="16" x2="35" y2="16" stroke="#3366aa" stroke-width="2"/>
+    </g>
+</svg>

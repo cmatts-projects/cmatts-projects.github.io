@@ -1,0 +1,8 @@
+<svg viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+    <g color="gray">
+        <polyline points="100,280 200,280 200,320 100,320 " fill="currentcolor" />
+        <polyline points="240,160 340,160 340,200 280,200 280,400 340,400 340,440 240,440" fill="currentcolor" />
+        <polyline points="380,40 480,40 480,80 420,80 420,240 480,240 480,280 380,280" fill="currentcolor" />
+        <polyline points="380,320 480,320 480,360 420,360 420,520 480,520 480,560 380,560" fill="currentcolor" />
+    </g>
+</svg>
