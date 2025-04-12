@@ -1,5 +1,4 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 20 400 400">
-
     <polygon points="240,240 280,200 280,120 240,160" style="fill:red;stroke:black;stroke-width:3" />
     <polygon points="240,320 280,280 280,200 240,240" style="fill:red;stroke:black;stroke-width:3" />
     <polygon points="240,400 280,360 280,280 240,320" style="fill:red;stroke:black;stroke-width:3" />
